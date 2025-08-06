@@ -1,5 +1,5 @@
 
-Hello ✌️ I'm Thisara Chamika
+<h1>Hello ✌️ I'm Thisara Chamika</h1>
 
 
 ## 🌐 Socials:
